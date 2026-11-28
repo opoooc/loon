@@ -1,0 +1,37 @@
+# Name: OKX
+# Description: OKX Exchange, Web3 Wallet, OKLink, API, CDN & Official Mirrors
+# Format: Loon Remote Rule (.list)
+
+# ==========================================
+# 1. 核心主站、区域站点、Web3 钱包与 API
+# ==========================================
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.ac
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okx.tr
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okex.org
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,okcoin.cn
+
+# ==========================================
+# 2. 生态、浏览器、静态资源与 DNS
+# ==========================================
+DOMAIN-SUFFIX,okg.com
+DOMAIN-SUFFIX,okgroup.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okxstatic.com
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+
+# ==========================================
+# 3. 官方中文/备用镜像域
+# ==========================================
+DOMAIN-SUFFIX,ouyi.art
+DOMAIN-SUFFIX,ouyi.fit
+DOMAIN-SUFFIX,ouyicn.biz
+DOMAIN-SUFFIX,ouyicn.blue
+DOMAIN-SUFFIX,ouyicn.info
+DOMAIN-SUFFIX,ouyicn.men
+DOMAIN-SUFFIX,ouyicn.top

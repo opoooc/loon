@@ -1,0 +1,87 @@
+# Name: Binance
+# Description: Binance Exchange, API, Static CDN, Official Mirrors & BNB Ecosystem
+# Format: Loon Remote Rule (.list)
+
+# ==========================================
+# 1. 核心主站、区域合规站与 API
+# ==========================================
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.com.br
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.es
+DOMAIN-SUFFIX,binance.fr
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.it
+DOMAIN-SUFFIX,binance.jp
+DOMAIN-SUFFIX,binance.kz
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.pl
+DOMAIN-SUFFIX,binance.se
+DOMAIN-SUFFIX,binance.th
+DOMAIN-SUFFIX,binance.tr
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binanceapi.com
+
+# ==========================================
+# 2. 静态资源、App 后端与追踪域
+# ==========================================
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnappzh.com
+DOMAIN-SUFFIX,bnappzh.mobi
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.co
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.info
+DOMAIN-SUFFIX,saasexch.io
+
+# ==========================================
+# 3. 官方中文/备用镜像域
+# ==========================================
+DOMAIN-SUFFIX,binancezh.ac
+DOMAIN-SUFFIX,binancezh.be
+DOMAIN-SUFFIX,binancezh.biz
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.ink
+DOMAIN-SUFFIX,binancezh.jp
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.sh
+DOMAIN-SUFFIX,binancezh.top
+DOMAIN-SUFFIX,binancezh.tv
+DOMAIN-SUFFIX,bsmkweb.cc
+DOMAIN-SUFFIX,maxweb.ac
+DOMAIN-SUFFIX,maxweb.black
+DOMAIN-SUFFIX,maxweb.cab
+DOMAIN-SUFFIX,maxweb.cc
+DOMAIN-SUFFIX,maxweb.mobi
+DOMAIN-SUFFIX,maxweb.red
+DOMAIN-SUFFIX,maxweb.systems
+DOMAIN-SUFFIX,suitechsui.cc
+DOMAIN-SUFFIX,suitechsui.club
+DOMAIN-SUFFIX,suitechsui.com
+DOMAIN-SUFFIX,suitechsui.guru
+DOMAIN-SUFFIX,suitechsui.io
+DOMAIN-SUFFIX,suitechsui.mobi
+DOMAIN-SUFFIX,suitechsui.net
+DOMAIN-SUFFIX,suitechsui.org
+DOMAIN-SUFFIX,suitechsui.online
+DOMAIN-SUFFIX,suitechsui.red
+
+# ==========================================
+# 4. 币安生态（BNB Chain / Trust Wallet）
+# ==========================================
+DOMAIN-SUFFIX,bnbchain.org
+DOMAIN-SUFFIX,bnbchain.world
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,trustwalletapp.com
